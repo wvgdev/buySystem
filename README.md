@@ -1,2 +1,0 @@
-# buySystem
-Sistema de compras
